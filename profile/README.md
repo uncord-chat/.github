@@ -41,7 +41,7 @@ docker compose up
 
 ### Get involved
 
-Uncord is built in the open. If you want to contribute, start with the issues labeled `good first issue` in any repository. Read the [contributing guide](https://github.com/uncord-chat/uncord-server/blob/main/CONTRIBUTING.md) for setup instructions and code conventions.
+Uncord is built in the open. If you want to contribute, start with the issues labeled `good first issue` in any repository. Read the [contributing guide](https://github.com/uncord-chat/uncord-server?tab=contributing-ov-file#readme) for setup instructions and code conventions.
 
 ### License
 
